@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mark-a-obrien
+- 👋 Hi, I’m Mark
 - 👀 I’m interested in learning Web Development and later making a Career out of it.
 - 🌱 I’m currently learning through The Odin Project.
 - 💞️ I’m looking to collaborate on ...
