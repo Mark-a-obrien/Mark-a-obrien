@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning through The Odin Project.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mark.a.obrien00@gmail.com
-- I'm looking for any open-source projects that a begin could contribute to. 
+- I'm looking for any open-source projects that a beginner could contribute to. 
 - I have basic expeience with Python and Java.
 
 <!---
